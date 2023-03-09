@@ -1,0 +1,8 @@
+---
+title: "Vector construction and identification"
+author: "Javier Wong"
+format: html
+editor: visual
+---
+
+表达趋化因子受体CCR6和分泌PD1单链抗体E27的EGFR CAR T细胞治疗非小细胞肺癌的体内外研究
